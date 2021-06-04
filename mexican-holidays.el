@@ -3,7 +3,7 @@
 ;; Copyright (C) 2016 Saúl Germán Gutiérrez-Calderón
 
 ;; Author: Saúl Gutiérrez <me@sggc.me>
-;; URL: https://github.com/shopClerk/mexican-holidays
+;; URL: https://github.com/sggutier/mexican-holidays
 ;; Version: 0.0.9
 ;; Keywords: calendar
 
